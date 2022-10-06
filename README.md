@@ -1,2 +1,15 @@
-# seagrass-dugongs
-Seagrass and Dugongs
+# Seagrass and Dugongs
+
+## Project scope
+
+blah blah
+
+## Dataset 
+
+## Contributors
+
++ my name
++ your name
+
+
+
