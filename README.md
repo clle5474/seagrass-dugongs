@@ -1,8 +1,3 @@
-Tristan’s advice for github:
-‘Github - download files from edstem, like the notebooks, then you need to drag and drop/upload them onto the github. You can include libraries that are required etc. so people know what is required for running the data. You can have multiple notebooks - you will have a folder with all your code. And then read me when you can detail some stuff. Something where people can go and grab data where they need to. Some stuff that can help people redo the process - how, where. Don’t have to load all the data, just provide the workflow for them to do it. 
-github in presentation? You will run some live demo if you want to through edstem. Github you wont be able to run any model its just a place where you store things. If you want to run stuff you do it on ed stem. If its just the process and workflow then use github. 
-
-
 # Effects of Climate Change as Environmental Pressures of Dugong dugon strandings in the Great Barrier Reef
 
 ## Introduction
@@ -28,19 +23,14 @@ It is suggested to continue to use these programs to reconduct any analysis.
 ### Notebooks
 We have provided 5 step-by-step notebooks with all coding needed to run the datasets through Jupyter:
 1. Extracting Data: an overview of how to iput data into the notebook and visualise it
-***** should we add a bar graph in for an example
 
 2. Creating GIFs: an overview of the GIF making process and how to save the files to your workspace
-**** should we add a GIF
 
 3. Timeseries and Slicing Data: an overview of analysing variables over time and specific locations
-****** add a timeseries?
 
 4. Correlation Heatmap: an overview of creating correlation heatmaps to compare variables 
-******* add a correlation heatmap?
 
-5. Cyclone Analysis:
-***** add cyclone stuff here?
+5. Cyclone Analysis: an overview of the cyclone data analysis using bar graphs
 
 
 ## Contributors
