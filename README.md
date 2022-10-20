@@ -24,13 +24,11 @@ It is suggested to continue to use these programs to reconduct any analysis.
 We have provided 5 step-by-step notebooks with all coding needed to run the datasets through Jupyter:
 1. Extracting Data: an overview of how to iput data into the notebook and visualise it
 
-2. Creating GIFs: an overview of the GIF making process and how to save the files to your workspace
+2. Creating Correlation Heatmaps and GIFs: an overview of creating correlation heatmaps to compare variables and making GIF's
 
 3. Timeseries and Slicing Data: an overview of analysing variables over time and specific locations
 
-4. Correlation Heatmap: an overview of creating correlation heatmaps to compare variables 
-
-5. Cyclone Analysis: an overview of the cyclone data analysis using bar graphs
+4. Cyclone Analysis: an overview of the cyclone data analysis using bar graphs
 
 
 ## Contributors
