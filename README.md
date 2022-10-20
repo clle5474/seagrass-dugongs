@@ -8,7 +8,7 @@ The growing rate of global climate change seen in recent decades raises concerns
 The study area comprises of 4 sites along the coast of Queensland, Australia selected from the dugong stranding data. These sites are Moreton Bay (152.9, -27.0), Hervey Bay (152.7, -25.2), Townsville (146.8, -19.2) and Cairns (145.8, -16.9).
 The variables of interest initially selected were Nitrogen, Temperature, Salinity and Light Intensity Above Seagrass, but from using correlation heatmaps that compared variables, ocean temperature was removed from the project as it had little impact on seagrass density.
 
-+ Link to google doc
+[Project Report[(https://docs.google.com/document/d/1OzrLt2eJxMpW0C1MZP3s-UoSD7J28XWGu1OpyyPE0wA/edit?usp=sharing)
 
 ## Dataset 
 Datasets were obtained from:
