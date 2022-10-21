@@ -1,4 +1,4 @@
-# Effects of Climate Change as Environmental Pressures of _Dugong_ _dugon_ strandings in the Great Barrier Reef
+# Dugong strandings: The impacts of extreme weather events and loss of seagrass density on _Dugong_ _Dugon_ strandings in the Great Barrier Reef
 
 <img src="https://user-images.githubusercontent.com/115133295/197125391-b3489661-a23a-48c8-ba05-661a3ca0dcb3.jpg" width="150"> <img src="https://user-images.githubusercontent.com/7201912/197075152-068d0d01-706d-4753-9448-f86a643fa031.png" width="250"> 
 
