@@ -4,7 +4,7 @@
 
 
 ## Introduction
-The growing rate of global climate change seen in recent decades raises concerns about repercussions on the Earth's environment. The Great Barrier Reef in Queensland, Australia is not only the world’s largest and most diverse reef systems but also a protected World Heritage site. Unfortunately, over the last 20 years, areas of the Great Barrier Reef have shown increased signs of environmental degradation mostly resulting from the effects of anthropogenic climate change, which is testing the resilience and threatening future of the reef. It is having an increasing negative impact on a variety of species which are dependent on the Reef for survival including Dugong. Our study and data analysis looks at the environmental pressures impacting Dugong’s within the Great Barrier Reef as a result of extreme weather events due to climate change.
+The growing rate of global climate change seen in recent decades raises concerns about repercussions on the Earth's environment. The Great Barrier Reef in Queensland, Australia is not only the world’s largest and most diverse reef systems but also a protected World Heritage site. Unfortunately, over the last 20 years, areas of the Great Barrier Reef (GBR) have shown increased signs of environmental degradation mostly resulting from the effects of anthropogenic climate change, which is testing the resilience and threatening the future of the reef. It is having an increasing negative impact on a variety of species which are dependent on the reef for survival including dugongs. Our study and data analysis looks at the impacts of climate change via extreme weather events, namely cyclones and floods, on dugong strandings within the GBR. Our focus is primarily on the impact that these extreme weather events have on coastal seagrass communities that provide food and habitat for dugongs in the GBR and subsequent impact on dugong strandings.
 
 
 ## Project Scope
@@ -14,7 +14,7 @@ The study area comprises of 4 sites along the coast of Queensland, Australia sel
 <img src="https://user-images.githubusercontent.com/115133295/197077697-f602f7fc-7f07-48b4-83a0-36b1ef7fa720.png" width="250">
 
 
-The variables of interest initially selected were _Nitrogen_, _Temperature_, _Salinity_ and _Light Intensity Above Seagrass_, but from using correlation heatmaps that compared variables, ocean temperature was removed from the project as it had little impact on seagrass density.
+The variables of interest initially selected were _Seagrass Density_, _Total Nitrogen_, _Temperature_, _Salinity_ and _Light Intensity Above Seagrass_; however, utilising correlation heatmaps that compared variables revealed that temperature was not significantly correlated with seagrass density and was thus excluded from the project.
 
 [See here for the full project report](https://docs.google.com/document/d/1OzrLt2eJxMpW0C1MZP3s-UoSD7J28XWGu1OpyyPE0wA/) 
 
@@ -28,25 +28,25 @@ Datasets were obtained from:
 
 
 ## Analysis
-A data analysis was conducted in a Jupyter notebook using python and the matplotlib library within.
-It is suggested to continue to use these programs to reconduct any analysis.
+Data analysis was conducted in Jupyter Notebook using python and the NumPy, pandas, Xarray, Cartopy and matplotlib libraries and packages within.
+These are the libraries and packages we suggest to use to reconduct any analysis.
 
 ### Notebooks
-We have provided 5 step-by-step notebooks with all coding needed to run the datasets through Jupyter:
-1. `Extracting Data`: an overview of how to iput data into the notebook and visualise it
+We have provided 4 step-by-step notebooks with all coding needed to run the datasets through Jupyter:
+1. `Extracting Data`: an overview of how to extract and visualise relevant data
 
-2. `Creating Correlation Heatmaps and GIFs`: an overview of creating correlation heatmaps to compare variables and making GIF's
+2. `Creating Correlation Heatmaps and GIFs`: an overview of creating correlation heatmaps to compare variables and making GIFs to visualise how variables change over time for a particular site
 
-3. `Timeseries and Slicing Data`: an overview of analysing variables over time and specific locations
+3. `Timeseries`: an overview of analysing variables over time for specific sites with the impacts of relevant cyclone and floods
 
-4. `Cyclone Analysis`: an overview of the cyclone data analysis using bar graphs
+4. `Cyclone Plotting`: an overview of plotting the tracks of relevant cyclone
 
 
 ## Contributors
 Contributors to the ENVI5809 project include:
 
-+ Claudia Le Quesne
-+ Eda Dagli
++ [Claudia Le Quesne](https://github.com/clle5474)
++ [Eda Dagli](https://github.com/edadagli)
 + Georgie Terrey
-+ Naomi Johnston
++ [Naomi Johnston](https://github.com/njoh6333)
 + Yidan Cui
