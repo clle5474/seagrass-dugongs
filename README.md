@@ -4,7 +4,7 @@
 
 
 ## Introduction
-The growing rate of global climate change seen in recent decades raises concerns about repercussions on the Earth's environment. The Great Barrier Reef in Queensland, Australia is not only the world’s largest and most diverse reef systems but also a protected World Heritage site. Unfortunately, over the last 20 years, areas of the Great Barrier Reef have shown increased signs of environmental degradation mostly resulting from the effects of anthropogenic climate change, which is testing the resilience and threatening future of the reef. It is having an increasing negative impact on a variety of species which are dependent on the Reef for survival including Dugong. Our study and data analysis looks at the environmental pressures impacting Dugong’s within the Great Barrier Reef as a result of extreme weather events due to Climate change.
+The growing rate of global climate change seen in recent decades raises concerns about repercussions on the Earth's environment. The Great Barrier Reef in Queensland, Australia is not only the world’s largest and most diverse reef systems but also a protected World Heritage site. Unfortunately, over the last 20 years, areas of the Great Barrier Reef have shown increased signs of environmental degradation mostly resulting from the effects of anthropogenic climate change, which is testing the resilience and threatening future of the reef. It is having an increasing negative impact on a variety of species which are dependent on the Reef for survival including Dugong. Our study and data analysis looks at the environmental pressures impacting Dugong’s within the Great Barrier Reef as a result of extreme weather events due to climate change.
 
 
 ## Project Scope
