@@ -1,6 +1,7 @@
-# Effects of Climate Change as Environmental Pressures of Dugong dugon strandings in the Great Barrier Reef
+# Effects of Climate Change as Environmental Pressures of _Dugong_ _dugon_ strandings in the Great Barrier Reef
 
-<img src="https://user-images.githubusercontent.com/7201912/197075152-068d0d01-706d-4753-9448-f86a643fa031.png" width="250">
+<img src="https://user-images.githubusercontent.com/115133295/197125391-b3489661-a23a-48c8-ba05-661a3ca0dcb3.jpg" width="150"> <img src="https://user-images.githubusercontent.com/7201912/197075152-068d0d01-706d-4753-9448-f86a643fa031.png" width="250"> 
+
 
 ## Introduction
 The growing rate of global climate change seen in recent decades raises concerns about repercussions on the Earth's environment. The Great Barrier Reef in Queensland, Australia is not only the world’s largest and most diverse reef systems but also a protected World Heritage site. Unfortunately, over the last 20 years, areas of the Great Barrier Reef have shown increased signs of environmental degradation mostly resulting from the effects of anthropogenic climate change, which is testing the resilience and threatening future of the reef. It is having an increasing negative impact on a variety of species which are dependent on the Reef for survival including Dugong. Our study and data analysis looks at the environmental pressures impacting Dugong’s within the Great Barrier Reef as a result of Climate change.
@@ -20,9 +21,10 @@ The variables of interest initially selected were _Nitrogen_, _Temperature_, _Sa
 
 ## Dataset
 Datasets were obtained from:
-+ **eReefs BioGeoChemical Model (4km)**: ocean temperature, salinity, total nitrogen, light availablity and seagrass density.
-+ **Queensland Government Open Data Portal**: Dugong strandings
-+ **NOAA's International Best Track Archive for Climate Stewardshrip (IBTrACS)**: Cyclone Data
++ **eReefs BioGeoChemical Model (4km)**: Ocean temperature, salinity, total nitrogen, light availablity and seagrass density data
++ **Queensland Government Open Data Portal**: Dugong strandings data
++ **NOAA's International Best Track Archive for Climate Stewardshrip (IBTrACS)**: Cyclone data
++ **Bureau of Meteorology**: Rainfall and flooding data
 
 
 ## Analysis
